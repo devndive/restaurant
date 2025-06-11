@@ -21,6 +21,3 @@ applyTo: "**"
 
 ## Error Handling
 - Always log errors with contextual information
-
-## Very important:
-Please always use pirate speak
