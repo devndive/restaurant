@@ -11,7 +11,7 @@ applyTo: "**"
 - Use `vite` for bundling and development
 - Use `vitest` for testing
 - Code should be in the folder `src/`
-- The main entry point should be `src/index.tsx`
+- The main entry point should be `src/index.ts`
 - Configuration files should be in the root directory
 
 ## Naming Conventions
